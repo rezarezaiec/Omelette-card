@@ -1,5 +1,6 @@
 # Preview
 ![Project preview](./preview-1.png "Project Preview")
+<hr>
 ![Project preview](./preview-2.png "Project Preview")
 
 # Omelette Card Project
