@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td>
-      <img src="./preview1.png" alt="Project Preview 1" style="width: 100%;" />
+      <img src="./preview-1.png" alt="Project Preview 1" style="width: 100%;" />
     </td>
     <td>
-      <img src="./preview2.png" alt="Project Preview 2" style="width: 100%;" />
+      <img src="./preview-2.png" alt="Project Preview 2" style="width: 100%;" />
     </td>
   </tr>
 </table>
