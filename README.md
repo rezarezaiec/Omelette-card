@@ -1,16 +1,16 @@
 # Preview
-# Preview
 
 <table>
   <tr>
     <td>
-      <img src="./preview-1.png" alt="Project Preview 1" width="400px" />
+      <img src="./preview1.png" alt="Project Preview 1" style="width: 100%;" />
     </td>
     <td>
-      <img src="./preview-2.png" alt="Project Preview 2" width="400px" />
+      <img src="./preview2.png" alt="Project Preview 2" style="width: 100%;" />
     </td>
   </tr>
 </table>
+
 
 
 # Omelette Card Project
