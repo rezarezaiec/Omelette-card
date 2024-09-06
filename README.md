@@ -1,7 +1,17 @@
 # Preview
-![Project preview](./preview-1.png "Project Preview")
+# Preview
 
-![Project preview](./preview-2.png "Project Preview")
+<table>
+  <tr>
+    <td>
+      <img src="./preview-1.png" alt="Project Preview 1" width="300" />
+    </td>
+    <td>
+      <img src="./preview-2.png" alt="Project Preview 2" width="300" />
+    </td>
+  </tr>
+</table>
+
 
 # Omelette Card Project
 This project is designed to Omelette card.
