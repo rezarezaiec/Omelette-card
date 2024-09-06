@@ -4,10 +4,10 @@
 <table>
   <tr>
     <td>
-      <img src="./preview-1.png" alt="Project Preview 1" width="300" />
+      <img src="./preview-1.png" alt="Project Preview 1" width="50%" />
     </td>
     <td>
-      <img src="./preview-2.png" alt="Project Preview 2" width="300" />
+      <img src="./preview-2.png" alt="Project Preview 2" width="50%" />
     </td>
   </tr>
 </table>
