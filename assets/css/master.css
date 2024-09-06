@@ -1,0 +1,130 @@
+/* Start Font Face */
+@font-face {
+    font-family: outfitL;
+    src: url("../../public/fonts/outfit/static/Outfit-Light.ttf");
+  }
+  /* End Font Face */
+  
+  /* Start Container */
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+  }
+  /* End Container */
+  
+  /* Start Info Section */
+  .info {
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  /* End Info Section */
+  
+  /* Start Time Info Section */
+  .time-info {
+    margin-top: 25px;
+    background-color: #fff7fc;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .time-list {
+    padding: 15px 30px;
+    line-height: 30px;
+  }
+  
+  .time-info h3 {
+    color: #783955;
+  }
+  
+  .time-list ul li::marker {
+    color: #783955;
+  }
+  /* End Time Info Section */
+  
+  /* Start Font Weight Bold */
+  .fw-bold {
+    font-weight: 600;
+  }
+  /* End Font Weight Bold */
+  
+  /* Start Padding 25px */
+  .p-25 {
+    padding: 25px;
+  }
+  /* End Padding 25px */
+  
+  /* Start Border Bottom Gray */
+  .border-b-gray {
+    border-bottom: 1px solid rgb(203, 203, 203);
+  }
+  /* End Border Bottom Gray */
+  
+  /* Start Ingredient List */
+  .ingredient-list {
+    line-height: 30px;
+    padding: 15px 20px;
+  }
+  
+  .ingredient-list ul li::marker,
+  .instruction-list ol li::marker {
+    color: #864943;
+  }
+  /* End Ingredient List */
+  
+  /* Start Color Brown */
+  .c-brown {
+    color: #864943;
+  }
+  /* End Color Brown */
+  
+  /* Start Padding Top 25px */
+  .pt-25 {
+    padding-top: 25px;
+  }
+  /* End Padding Top 25px */
+  
+  /* Start Instruction List */
+  .instruction-list {
+    line-height: 30px;
+    padding: 15px 20px;
+  }
+  /* End Instruction List */
+  
+  /* Start Row */
+  .row {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    border-bottom: 1px solid rgb(203, 203, 203);
+    font-family: outfitL;
+    align-items: center;
+  }
+  /* End Row */
+  
+  /* Start Font Family for Text Elements */
+  p,
+  li,
+  h1,
+  h2,
+  h3 {
+    font-family: outfitL;
+  }
+  /* End Font Family for Text Elements */
+  
+  /* Start Responsive Design for Small Screens */
+  @media screen and (max-width: 450px) {
+    .container {
+      border-radius: 0;
+      padding: 0;
+    }
+    .img-box img {
+      border-radius: 0;
+    }
+  }
+  /* End Responsive Design for Small Screens */
+  
